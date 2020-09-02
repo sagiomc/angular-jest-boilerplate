@@ -65,8 +65,6 @@ module.exports = {
 rm ./karma.conf.js ./src/test.ts
 ```
 
-
-Add jest scripts to package.json:
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
